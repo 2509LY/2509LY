@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @2509LY
-- 👀 I’m interested in ... Roblox Scripting, playing MMORPG type games.
-- 🌱 I’m currently learning ... Javascript (possible C++)
-- 💞️ I’m looking to collaborate on ... N/A
-- 📫 How to reach me ... Bizaare#0009 (discord) or xxthetacobell1o1xx@gmail.com
-
-<!---
-2509LY/2509LY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<font color ="#BC6253"> Hallo, Ich heise Levi Yates.</font>
+I enjoy coding, and <font size="100">Video Games.</font>
+You can contact me @ Bizaare#6208 on Discord.
+OR you can email Bizaare0009@gmail.com, and I will reach out to you within 3 business days.
